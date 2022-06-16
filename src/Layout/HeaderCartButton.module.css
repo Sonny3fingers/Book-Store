@@ -1,0 +1,11 @@
+.headerCartButton {
+  background: honeydew;
+  border-radius: 200px;
+  padding: 20px;
+  font-weight: bold;
+  font-size: 20px;
+  cursor: pointer;
+}
+.headerCartButton span {
+  margin-left: 10px;
+}

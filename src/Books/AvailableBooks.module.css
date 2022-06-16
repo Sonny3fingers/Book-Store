@@ -1,0 +1,18 @@
+.bookList {
+  list-style-type: none;
+  width: 100%;
+}
+.loadingBooks {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: large;
+  font-weight: bold;
+}
+
+.booksHttpError {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: large;
+  font-weight: bold;
+  color: red;
+}

@@ -1,0 +1,12 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 10px;
+  background: rgb(117, 194, 117);
+}
+.logo {
+  background: honeydew;
+  padding: 10px 30px;
+  border-radius: 5px;
+}

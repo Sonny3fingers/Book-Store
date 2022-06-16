@@ -1,0 +1,27 @@
+.form {
+  text-align: right;
+  background: honeydew;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  border-radius: 5px;
+}
+.form button {
+  font: inherit;
+  cursor: pointer;
+  background: rgb(117, 194, 117);
+  color: #000;
+  border-radius: 20px;
+  padding: 6px 12px;
+  font-weight: bold;
+}
+.form button:hover {
+  background: rgb(107, 219, 107);
+}
+.formControl {
+  margin-bottom: 10px;
+}
+.formControl input {
+  width: 3rem;
+  margin-left: 5px;
+}
